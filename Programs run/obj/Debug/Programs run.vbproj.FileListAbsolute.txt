@@ -1,0 +1,21 @@
+C:\Users\xp_ms\Desktop\Programs run\Programs run\bin\Debug\Programs run.exe
+C:\Users\xp_ms\Desktop\Programs run\Programs run\bin\Debug\Programs run.pdb
+C:\Users\xp_ms\Desktop\Programs run\Programs run\bin\Debug\Programs run.xml
+C:\Users\xp_ms\Desktop\Programs run\Programs run\obj\Debug\Programs run.vbprojResolveAssemblyReference.cache
+C:\Users\xp_ms\Desktop\Programs run\Programs run\obj\Debug\Programs_run.Resources.resources
+C:\Users\xp_ms\Desktop\Programs run\Programs run\obj\Debug\Programs run.vbproj.GenerateResource.Cache
+C:\Users\xp_ms\Desktop\Programs run\Programs run\obj\Debug\Programs run.exe
+C:\Users\xp_ms\Desktop\Programs run\Programs run\obj\Debug\Programs run.xml
+C:\Users\xp_ms\Desktop\Programs run\Programs run\obj\Debug\Programs run.pdb
+C:\Users\xp_ms\Desktop\Programs run\Programs run\obj\Debug\Programs_run.Form1.resources
+C:\Users\MONSTERMC\Desktop\Programs run\Programs run\bin\Debug\Programs run.exe
+C:\Users\MONSTERMC\Desktop\Programs run\Programs run\bin\Debug\Programs run.pdb
+C:\Users\MONSTERMC\Desktop\Programs run\Programs run\bin\Debug\Programs run.xml
+C:\Users\MONSTERMC\Desktop\Programs run\Programs run\obj\Debug\Programs run.vbprojAssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\Programs run\Programs run\obj\Debug\Programs_run.Form1.resources
+C:\Users\MONSTERMC\Desktop\Programs run\Programs run\obj\Debug\Programs_run.Resources.resources
+C:\Users\MONSTERMC\Desktop\Programs run\Programs run\obj\Debug\Programs run.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\Programs run\Programs run\obj\Debug\Programs run.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\Programs run\Programs run\obj\Debug\Programs run.exe
+C:\Users\MONSTERMC\Desktop\Programs run\Programs run\obj\Debug\Programs run.xml
+C:\Users\MONSTERMC\Desktop\Programs run\Programs run\obj\Debug\Programs run.pdb

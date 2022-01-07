@@ -1,0 +1,19 @@
+ipconfig /all
+mem /c  |more
+diskcopy a: a: /V
+diskcomp a: a:
+netstat -all
+ipconfig /allcompartments /all
+
+C:\> TIME
+C:\> VER
+DIR/P/W/A/O/S
+DIR/O
+dir *.* = dir
+deltree aly
+remove directory
+cmd
+cmd.exe
+sfc /verifyonly
+ipconfig /renew
+powershell
